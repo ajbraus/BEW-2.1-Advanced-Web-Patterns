@@ -92,6 +92,14 @@ To access each tutorial, **click the bold links** below. Be sure to complete the
 | **Challenge 2**: Mini Websocket App | [Instructions](Challenges/Websockets.md) | **Due 05/07 @ 11:59PM** |
 | **Challenge 3**: Node Module | [Instructions](Challenges/Module.md) | **Due 05/12 @ 11:59PM** |
 
+### Blog Post
+
+You will write a 1,000 word technical blog post about any advanced backend web pattern you choose. It can be one covered in class or one that you find through your own research. 
+
+* The blog post should be informative, persuasive, and entertaining. 
+* It should have a click-worthy title, section headers, a cover image, and an interesting hook to begin.
+* It should be published on the web and added to your portfolio.
+
 ### Final Presentation
 
 The delivery of a live or pre-recorded presentation is required to pass this course. **Presentations will be delivered on Wednesday, December 9th on our final day of class**.
