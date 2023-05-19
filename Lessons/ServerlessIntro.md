@@ -59,7 +59,9 @@ Break students into groups of 6 for a standup meeting on tutorial progress.
 
 ## [**20m**] 💬 **TT**: Intro to Serverless
 
-- Go through [Comparisons: Serverless vs. other tools](https://www.serverless.com/learn/comparisons/)
+- Read and discuss [Comparisons: Serverless vs. other tools](https://www.serverless.com/learn/comparisons/)
+
+Why would you choose serverless architecture over another? What are the pro's and con's? 
 
 <!-- > -->
 
@@ -69,9 +71,7 @@ Break students into groups of 6 for a standup meeting on tutorial progress.
 
 ## [**30m**] 💻 **Activity**: Serverless Hello World
 
-First, be sure to set up your credentials for AWS by following along with this video:
-
-<iframe height="720" src="https://www.youtube.com/embed/KngM5bfpttA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+First, be sure to set up your credentials for AWS by following along with this video: [https://www.youtube.com/embed/KngM5bfpttA](https://www.youtube.com/embed/KngM5bfpttA)
 
 Then, get hands-on with your first serverless application by running the [Hello World Node.js Example on AWS](https://www.serverless.com/framework/docs/providers/aws/examples/hello-world/node/) in your own terminal.
 
