@@ -98,8 +98,6 @@ The delivery of a live or pre-recorded presentation is required to pass this cou
 
 Your **three to five minute presentation** should focus on the **experience you gained** and **lessons you learned** while implementing one of the three [Challenges](#challenges) in this course. Please prepare a brief slide deck, and walk us through some of your code that was either especially challengning or about which you are most proud.
 
-**Your final presentation will be evaluated based on the [Presentation Rubric](). You must earn an average of 2.5 on the rubric to pass**.
-
 ## Late Assignment Policy
 
 - Late assignments that are submitted **more than 5 days (120 hours)** after the deadline will be given a **25% late penalty**.
