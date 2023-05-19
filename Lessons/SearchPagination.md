@@ -138,9 +138,9 @@ Throughout your career, you will have many technical debates with your teams. We
 
 <!-- > -->
 
-## Pagination Activity
+## Pagination Activity (25 min)
 
-**TODO:** add small coding activity for pagination. Something like this: [https://medium.com/javascript-in-plain-english/simple-pagination-with-node-js-mongoose-and-express-4942af479ab2](https://medium.com/javascript-in-plain-english/simple-pagination-with-node-js-mongoose-and-express-4942af479ab2)
+Complete this small coding activity for pagination.[Simple Pagination with Node.js, Express, and Mongoose](https://medium.com/javascript-in-plain-english/simple-pagination-with-node-js-mongoose-and-express-4942af479ab2)
 
 <!-- > -->
 
