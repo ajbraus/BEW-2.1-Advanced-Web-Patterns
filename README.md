@@ -52,20 +52,20 @@ In this course students deepen their understanding of the web and implement adva
 
 | Class |    Date     | Topics                                                                                        |
 | :---: | :---------: | --------------------------------------------------------------------------------------------- |
-|   1   | Mon, Mar 29 | [Pagination & Search] |
-|   -   | Wed, Mar 31 | **No Class - Cesar Chavez** |
-|   2   | Mon, Apr 5 | [Sending Emails] |
-|   3   | Wed, Apr 7 | [Payment Gateways] |
-|   4   | Mon, Apr 12  | [Introduction to Amazon S3] |
-|   5   | Wed, Apr 14  | [Getting Started with Serverless] |
-|   6   | Mon, Apr 19 | [Serverless Architecture]                                                             |
-|   7   | Wed, Apr 21 |**[Serverless IRL] + Guest Speaker ([Slides](assets/MakeSchoolServerless.pdf))**<br><small>🎤 **[James Beswick]** _(Sr. Developer Advocate @ AWS)</small>_  |
-|   8   | Mon, Apr 26 | [Intro to WebSockets] / [Make Chat](https://github.com/ajbraus/Make-Chat-Tutorial) |
-|   9   | Wed, Apr 28 | [Working With WebSockets] |
-|  10   | Mon, May 3 |  [Building and Deploying a Node Module]  |
-|  11   | Wed, May 5  | [Awesome Automations] + Lab Time |
-|  12   | Mon, May 10  | Lab Day |
-|  13   | Wed, May 12  | [Final Presentations](#final-presentations) |
+|   1   | Class 1 | [Pagination & Search] |
+|   -   | Class 2 | **No Class - Cesar Chavez** |
+|   2   | Class 3 | [Sending Emails] |
+|   3   | Class 4 | [Payment Gateways] |
+|   4   | Class 5  | [Introduction to Amazon S3] |
+|   5   | Class 6  | [Getting Started with Serverless] |
+|   6   | Class 7 | [Serverless Architecture]                                                             |
+|   7   | Class 8 |**[Serverless IRL] + Guest Speaker ([Slides](assets/MakeSchoolServerless.pdf))**<br><small>🎤 **[James Beswick]** _(Sr. Developer Advocate @ AWS)</small>_  |
+|   8   | Class 9 | [Intro to WebSockets] / [Make Chat](https://github.com/ajbraus/Make-Chat-Tutorial) |
+|   9   | Class 10 | [Working With WebSockets] |
+|  10   | Class 11 |  [Building and Deploying a Node Module]  |
+|  11   | Class 12  | [Awesome Automations] + Lab Time |
+|  12   | Class 13  | Lab Day |
+|  13   | Class 14  | [Final Presentations](#final-presentations) |
 
 ## Class Assignments
 
