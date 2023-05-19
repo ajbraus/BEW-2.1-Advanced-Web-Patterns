@@ -37,7 +37,7 @@ By the end of this lesson, you should be able to...
 
 ## 👋 Welcome to Class
 
-Instructor will walk through the [syllabus](https://make.sc/bew2.1) and answer questions about the course.
+Instructor will walk through the github syallbus and answer questions about the course.
 
 **Students**, remember to join the following:
 
