@@ -72,7 +72,7 @@ Break students into groups of 6 for a standup meeting on tutorial progress.
 
 First, be sure to set up your credentials for AWS by following along with this video: [https://www.youtube.com/embed/KngM5bfpttA](https://www.youtube.com/embed/KngM5bfpttA)
 
-Then, get hands-on with your first serverless application by running the [Hello World Node.js Example on AWS](https://www.serverless.com/framework/docs/providers/aws/examples/hello-world/node/) in your own terminal.
+Then, get hands-on with your first serverless application by completing the first "Hello World" step of this [serverless tutorial](https://www.serverless.com/blog/serverless-express-rest-api/) in your own terminal.
 
 Once it's working, modify the code to return you and your partner's names instead!
 
@@ -80,9 +80,9 @@ Once it's working, modify the code to return you and your partner's names instea
 
 ## [**30m**] 💻 **Activity**: Choose Your Own Serverless Adventure
 
-- **OPTION 1**: Complete the [tutorial](https://www.serverless.com/blog/serverless-express-rest-api/) as written _(solo or pair project)_
+- **OPTION 1**: Continue the [serverless tutorial](https://www.serverless.com/blog/serverless-express-rest-api/) as written _(solo or pair project)_
 
-- **OPTION 2**: Complete the [tutorial](https://www.serverless.com/blog/serverless-express-rest-api/) but change `Users` to an entity of your choosing. For example, `Pokemon`, `Cars`, or `Products`  _(solo or pair project)_
+- **OPTION 2**: Complete the [serverless tutorial](https://www.serverless.com/blog/serverless-express-rest-api/) but change `Users` to an entity of your choosing. For example, `Pokemon`, `Cars`, or `Products`  _(solo or pair project)_
 
 - **OPTION 3**: [**STRETCH CHALLENGE**] Take an existing Node and Express project and convert it to use the Serverless framework. Use [Converting an existing Express application](https://www.serverless.com/blog/serverless-express-rest-api#converting-an-existing-express-application) to guide you!  _(up to 3 per team)_
 
