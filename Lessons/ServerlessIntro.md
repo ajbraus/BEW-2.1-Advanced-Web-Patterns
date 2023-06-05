@@ -59,9 +59,8 @@ Break students into groups of 6 for a standup meeting on tutorial progress.
 
 ## [**20m**] 💬 **TT**: Intro to Serverless
 
-- Read and discuss [Comparisons: Serverless vs. other tools](https://www.serverless.com/learn/comparisons/)
-
-Why would you choose serverless architecture over another? What are the pro's and con's? 
+- Read and discuss [Introduction to Serverless Architecture in Cloudbased Applications](https://relevant.software/blog/serverless-architecture/) and answer the question: Why would you choose serverless architecture over another? What are the pro's and con's? 
+- Optionally compare and contrast the major serverless providers: [Serverless Providers]([https://www.serverless.com/learn/comparisons/](https://www.sqlshack.com/an-introduction-to-serverless-applications/)) & 
 
 <!-- > -->
 
