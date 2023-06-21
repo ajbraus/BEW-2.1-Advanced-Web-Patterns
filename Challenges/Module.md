@@ -21,11 +21,5 @@ In this challenge, you will build a node package and deploy it to NPM.
 
 ## Resources
 
-### Lesson Plans
-
-- **[Building & Deploying Node Modules](Lessons/NodeModules.md)**: Lesson plan where we discuss Node Modules and practice NPM deployment.
-
-### Example Code
-
 - **[droxey/tocsify](https://github.com/droxey/tocsify)**: Module that generates a table of contents based on the file structure of a Docsify docs directory.
 - [**DigitalOcean**: How To Create a Node.js Module](https://www.digitalocean.com/community/tutorials/how-to-create-a-node-js-module)
